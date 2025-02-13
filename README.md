@@ -134,6 +134,10 @@ Get AI-powered task suggestions and prioritization
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+Final result should look like this
+![fb8283fa-3548-4180-8a16-b57d87687fb4-00-2oqqr3h3lspp4 spock replit dev - Google Chrome 13-02-2025 18_53_47](https://github.com/user-attachments/assets/821cf6c9-113d-4b24-b3ce-f8972158ae85)
+
+
 ## Live Demo
 
-[Replit Demo Link](https://decentralized-todo.your-username.repl.co) (Replace with actual Replit URL)
+[Replit Demo Link]([https://decentralized-todo.your-username.repl.co](https://fb8283fa-3548-4180-8a16-b57d87687fb4-00-2oqqr3h3lspp4.spock.replit.dev/)) (Replace with actual Replit URL)
