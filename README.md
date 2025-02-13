@@ -140,4 +140,4 @@ Final result should look like this
 
 ## Live Demo
 
-[Replit Demo Link]([https://decentralized-todo.your-username.repl.co](https://fb8283fa-3548-4180-8a16-b57d87687fb4-00-2oqqr3h3lspp4.spock.replit.dev/)) 
+[Replit Demo Link click here][(https://fb8283fa-3548-4180-8a16-b57d87687fb4-00-2oqqr3h3lspp4.spock.replit.dev/)]
