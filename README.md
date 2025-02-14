@@ -53,6 +53,8 @@ cd decentralized-todo
 ```bash
 npm install
 ```
+-> Create .env file
+cp .env.example .env
 
 3. Set up environment variables:
 Create a `.env` file in the root directory with:
